@@ -55,23 +55,12 @@
 <div>
  <p>
   <a href="https://github.com/gildemardiniz/github-readme-stats"> 
-   <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gildemardiniz&show_icons=true&theme=dark&include_all_commits=true"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=gildemardiniz&show_icons=true&theme=dark" height="200em" width="45%"/>
   </a>
   <a href="https://github.com/gildemardiniz/github-readme-stats"> 
-   <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildemardiniz&layout=compact&theme=dark"/>
+   <img height="200em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildemardiniz&layout=compact&theme=dark"/>
   </a>
  </p>
- 
  </div>
-
- 
-<!--
-**gildemardiniz/gildemardiniz** é um repositório ✨ _special_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
-
-Aqui estão algumas ideias para você começar:
-
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre...
-- ⚡ Curiosidade: ...
--->
+    
+  ##
