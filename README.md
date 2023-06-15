@@ -55,10 +55,10 @@
 <div>
  <p>
   <a href="https://github.com/gildemardiniz/github-readme-stats"> 
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gildemardiniz&show_icons=true&theme=dark&include_all_commits=true"/>
+   <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gildemardiniz&show_icons=true&theme=dark&include_all_commits=true"/>
   </a>
   <a href="https://github.com/gildemardiniz/github-readme-stats"> 
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildemardiniz&layout=compact&theme=dark"/>
+   <img height="200em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gildemardiniz&layout=compact&theme=dark"/>
   </a>
  </p>
  
