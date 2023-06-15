@@ -1,7 +1,7 @@
 ### Fala galera! Gildemar aqui! / Hey guys! Gildemar here! 
 
 <img align="right" src="https://1000marcas.net/wp-content/uploads/2021/04/Star-Trek-Logo.png" height="200em">
-👨‍🎓 <i>Tecnólogo em Análise e Desenvolvimento de Sistemas / Technologist in Systems Analysis and Development.</i><br/>
+👨‍🎓 <i>Análise e Desenvolvimento de Sistemas / Technologist in Systems Analysis and Development.</i><br/>
 👨‍🎓 <i>MBA Auditoria, Controladoria e Finanças / MBA Auditing, Controlling and Finance.</i><br/>
 👨‍🎓 <i>Bacharel em Administração / Bachelor's Degree in Business Administration.</i><br/>
 
