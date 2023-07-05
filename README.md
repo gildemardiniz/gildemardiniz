@@ -22,21 +22,21 @@
 🌱 Aprendendo / Learning:
 <div>
  <p>
-   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
-   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
-   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"> 
-   <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"> 
-   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"> 
-   <img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white">
-   <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"> 
-   <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"> 
-   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
- </p>
+   <img src="https://img.shields.io/badge/Microsoft_Excel-fff?style=for-the-badge&logo=microsoft-excel&logoColor=black" alt="badge logo excel"></img>
+                    <img src="https://img.shields.io/badge/HTML5-fff?style=for-the-badge&logo=html5&logoColor=black" alt="badge logo HTML5"></img>
+                    <img src="https://img.shields.io/badge/CSS3-fff?style=for-the-badge&logo=css3&logoColor=black" alt="badge logo CSS3"></img>
+                    <img src="https://img.shields.io/badge/JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=black" alt="badge logo JavaScript"></img>
+                    <img src="https://img.shields.io/badge/React-fff?style=for-the-badge&logo=react&logoColor=black" alt="badge logo react"></img>
+                    <img src="https://img.shields.io/badge/Bootstrap-fff?style=for-the-badge&logo=bootstrap&logoColor=black" alt="badge logo bootstrep"></img>
+                    <img src="https://img.shields.io/badge/Material--UI-fff?style=for-the-badge&logo=material-ui&logoColor=black" alt="badge logo bootstrep"></img>
+                    <img src="https://img.shields.io/badge/MySQL-fff?style=for-the-badge&logo=mysql&logoColor=black" alt="badge logo mysql"></img>
+                    <img src="https://img.shields.io/badge/PostgreSQL-fff?style=for-the-badge&logo=postgresql&logoColor=black" alt="badge logo postgresqp"></img>
+                    <img src="https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=openjdk&logoColor=black" alt="badge logo Java Spring"></img>
+                    <img src="https://img.shields.io/badge/Spring-fff?style=for-the-badge&logo=spring&logoColor=black" alt="badge logo"></img>
+                    <img src="https://img.shields.io/badge/Dart-fff?style=for-the-badge&logo=dart&logoColor=black" alt="badge logo Dart"></img>
+                    <img src="https://img.shields.io/badge/Flutter-fff?style=for-the-badge&logo=flutter&logoColor=black" alt="badge logo Flutter"></img>
+                    <img src="https://img.shields.io/badge/GitHub-fff?style=for-the-badge&logo=github&logoColor=black" alt="badge logo GitHub"></img>
+                    <img src="https://img.shields.io/badge/GitLab-fff?style=for-the-badge&logo=gitlab&logoColor=black" alt="badge logo GitLab"></img>
 </div>
   
   ##
